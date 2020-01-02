@@ -3,7 +3,6 @@
  
 ![bitcoin](https://github.com/cryptonobo/The-quickening-Box-/blob/master/pub_cloaksV2.jpg)
 
-.stl Coming soon 
-
+Download .stl // Coming soon 
 
 More info at https://github.com/arcbtc/Quickening
