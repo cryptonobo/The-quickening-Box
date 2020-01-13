@@ -37,7 +37,4 @@ XH2.54 2.54mm Wire Cable Connector XH Plug Male & Female Battery Charging Cable 
 10PCS 2.54MM 2.54 Wire Dupont Line female to female 1P2 3 4 5 6 7 8 9 10 12 Pin Dupont cable connector JUMPER CABLE WIRE FOR PCB
 - https://www.aliexpress.com/item/33030664287.html?spm=a2g0s.9042311.0.0.302b4c4duWueIQ
 
-... 
-
-# update  
 
