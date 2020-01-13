@@ -3,10 +3,13 @@
  
 ![bitcoin](https://github.com/cryptonobo/The-quickening-Box-/blob/master/pub_cloaksV2.jpg)
 
+# The quickening (software)
+
 More info at https://github.com/arcbtc/Quickening
 
-Download .stl // Coming Soon here & at https://www.cryptocloaks.com/
+# Download 
 
+.stl // Coming Soon here & at https://www.cryptocloaks.com/
 
 # Hardware List Used For Pototype :
 
@@ -36,5 +39,5 @@ XH2.54 2.54mm Wire Cable Connector XH Plug Male & Female Battery Charging Cable 
 
 ... 
 
-
+# update  
 
