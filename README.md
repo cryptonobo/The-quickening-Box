@@ -11,7 +11,7 @@ More info at https://github.com/arcbtc/Quickening
 
 .stl // Coming Soon here & at https://www.cryptocloaks.com/
 
-### Hardware List Used For Pototype :
+## Hardware List Used For Pototype :
 
 Micro USB 18650 TP4056 1 A Lithium Battery Charging Power Board Module TE420
 - https://www.amazon.de/dp/B0778Z9TFH/ref=pe_3044161_189395811_TE_SCE_dp_1
