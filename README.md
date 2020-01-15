@@ -9,7 +9,7 @@ More info at https://github.com/arcbtc/Quickening
 
 ## Download 
 
-.stl // Coming Soon here & at https://www.cryptocloaks.com/file-factory/
+.stl // https://github.com/cryptonobo/The-quickening-Box/releases/tag/STL & at https://www.cryptocloaks.com/file-factory/
 
 ## Hardware List Used For Pototype :
 
