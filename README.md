@@ -13,6 +13,9 @@ More info at https://github.com/arcbtc/Quickening
 
 ## Hardware List Used For Pototype :
 
+ON-OFF 22mm 2Pin
+- https://www.aliexpress.com/item/32968972320.html?spm=a2g0s.9042311.0.0.5e364c4d89YMQh
+
 Micro USB 18650 TP4056 1 A Lithium Battery Charging Power Board Module TE420
 - https://www.amazon.de/dp/B0778Z9TFH/ref=pe_3044161_189395811_TE_SCE_dp_1
 
