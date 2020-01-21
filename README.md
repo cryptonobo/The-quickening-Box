@@ -22,8 +22,9 @@ Micro USB 18650 TP4056 1 A Lithium Battery Charging Power Board Module TE420
 3.7 V 720 mAh 20 °C Li-Po Battery
 - https://www.amazon.de/gp/product/B071D5QTHL?ref=ppx_pt2_dt_b_prod_image
 
-1.8 inch Color TFT LCD Display Module 128*160 Interface SPI Drive ST7735
+1.8 inch Color TFT LCD Display Module 128*160 Interface SPI Drive ST7735*
 - https://www.aliexpress.com/item/32933458346.html?spm=a2g0s.8937460.0.0.549d2e0e6RC0bo
+*Hardware: (USE THE TFT_eSPI LIBRARY  FOR THE CORRECT DRIVERS!!!)
 
 ESP32 Development Board ESP-32 ESP-32S WiFi Bluetooth Dual Cores CPU MCU Board IOT For LuaNode For NodeMcu
 - https://www.aliexpress.com/item/32847642995.html?spm=a2g0s.8937460.0.0.549d2e0e6RC0bo
